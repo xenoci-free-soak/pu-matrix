@@ -1,0 +1,22 @@
+.github/workflows/ci.yml
+  h_e90f0321dd544b 1-15
+Package.swift
+  h_e90f0321dd544b 1-6
+README.md
+  h_e90f0321dd544b 1-3
+Sources/Matrix/Matrix.swift
+  h_e90f0321dd544b 1-3
+Tests/MatrixTests/MatrixTests.swift
+  h_e90f0321dd544b 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "44a9a995bcd70222bf80e7cb0c7916232a31a0f8",
+  "prompts": {},
+  "humans": {
+    "h_e90f0321dd544b": {
+      "author": "001005HS <99410048+001005HS@users.noreply.github.com>"
+    }
+  }
+}
